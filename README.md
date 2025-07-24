@@ -1,6 +1,6 @@
-# 🎨 Paint – Python Drawing App
+# 🎨 Paint – Python Drawing Program
 
-This is a custom Paint application built using **Pygame** and **Tkinter**, created as my very first Python project in Grade 11 Computer Science.
+This is a custom Paint program built using **Pygame** and **Tkinter**, created as my very first Python project in Grade 11 Computer Science.
 
 The program lets users draw on a canvas using different tools, pick colors, use stamps, and even add music—all while learning how graphical user interfaces work behind the scenes.
 
@@ -57,6 +57,6 @@ Note: You should have fullscreenpicture.jpg in the same directory for the backgr
 
 ## 📸 Screenshot
 
-Here's what the Paint app looks like while running:
+Here's what the Paint program looks like while running:
 
-![Paint App Screenshot](screenshot.png)
+![Paint program Screenshot](screenshot.png)
